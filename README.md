@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
-
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
@@ -21,15 +16,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Assing and configure roles in the admin panel
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+
 
 <h2>Configuration Steps</h2>
 
-<imghttps://imgur.com/a/TY85bg1/>
-<p>
+![image](https://github.com/ricmarcano/osTicket-post-installation/assets/141169092/3de73a40-015c-4a75-a789-f114430397b3)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
