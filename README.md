@@ -1,8 +1,6 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-
+<h1>osTicket - Post-Installation Configuration</h1>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -14,11 +12,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-<h2>Post-Install Configuration Objectives</h2>
-
-- Assing and configure roles in the admin panel
-
 
 <h2>Configuration Steps</h2>
 
@@ -66,3 +59,5 @@ Lastly, it's essential to generate Help Topics to guide users in choosing a suit
 ![image](https://github.com/ricmarcano/osTicket-post-installation/assets/141169092/16871982-2e0a-42ff-abba-a643a8fe6da9)
 ![image](https://github.com/ricmarcano/osTicket-post-installation/assets/141169092/6930efd7-1aa4-43a0-a1ab-b048759a15ae)
 ![image](https://github.com/ricmarcano/osTicket-post-installation/assets/141169092/9da7f28b-b613-4067-99bd-434dd18840ea)
+
+Congratulations! osTicket is now ready to function as a complete ticketing system.
